@@ -49,11 +49,5 @@ namespace telemovel
                 numero = numero * 10 + valor;
             mostra();
         }
-
-        private void Button12_Click(object sender, EventArgs e)
-        {
-            numero = 0;
-            mostra();
-        }
     }
 }
